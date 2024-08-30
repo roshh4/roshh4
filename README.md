@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshh4&hide=javascript,css,scss,html&theme=tokyonight)
+-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshh4&theme=tokyonight)
 
 
 <!---
